@@ -34,3 +34,7 @@ Neovim, IntelliJ IDEA
 **Orchestration:** Docker Compose, Docker Swarm  
 **CI/CD:** GitHub Actions  
 **Infra:** Ansible
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalmittal123&theme=radical" alt="GitHub Streak" width="45%" />
+</p>
